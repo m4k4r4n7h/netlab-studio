@@ -62,7 +62,7 @@ npm run desktop:dist:win    # Windows .exe (NSIS)
 npm run desktop:dist        # both
 ```
 
-Install the `.deb` on Debian/Ubuntu with:
+Install the `.deb` on Debian/Ubuntu with:-
 
 ```bash
 sudo apt install ./release/netlab-studio_1.0.0_amd64.deb
