@@ -52,7 +52,7 @@ npm run build
 npm run preview
 ```
 
-## Desktop app (no browser tab needed)
+## Desktop app (No browser tab needed)
 
 There is also an Electron desktop build. After building, you get installers/packages in `release/`.
 
